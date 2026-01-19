@@ -24,6 +24,7 @@ A simple To-Do List application built using **HTML, CSS, and JavaScript**.
 ## Note
 - This project is currently **optimized for desktop screens**.  
 - On smaller screens (mobile phones or tablets), the layout may not display perfectly.
+- They are not stored.(when page refresh t starts with new).
 
 ## checkOut here 
 - https://harshal-upare.github.io/todo-list-js/
