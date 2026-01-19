@@ -19,3 +19,6 @@ A simple To-Do List application built using **HTML, CSS, and JavaScript**.
 - HTML
 - CSS
 - JavaScript (DOM manipulation)
+
+checkOut here
+- https://harshal-upare.github.io/todo-list-js/
